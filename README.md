@@ -19,4 +19,6 @@ pip3 install python-telegram-bot
 
 运行py文件即可（需要大网通telegram域名）
 
+先找机器人发一个/start
+
 ![image](https://user-images.githubusercontent.com/35444295/209443072-d48fa0bd-3059-48a5-9878-b1183efb9dba.png)
